@@ -1,0 +1,47 @@
+.container-fluid1 {
+  margin-top: 40px;
+  background-color: rgb(233, 246, 255);
+}
+
+.box {
+  margin: 60px;
+  width: 400px;
+  margin-left: 130px;
+  margin-top: 80px;
+}
+
+.btn1 {
+  border: 1px solid rgb(22, 82, 240);
+  background-color: rgb(22, 82, 240);
+  color: rgb(255, 255, 255);
+  padding: 10px;
+}
+
+li {
+  list-style-type: none;
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+  color: rgba(17, 51, 83, 0.6);
+  font-size: 129%;
+  font-weight: 400;
+}
+
+a:hover {
+  color: blue;
+}
+
+.con {
+  margin-left: 600px;
+}
+
+.sel {
+  margin: 16px;
+  width: 140px;
+}
+
+.footer {
+  margin-top: 100px;
+}
